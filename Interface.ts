@@ -55,7 +55,7 @@ console.log(car2.year);
 console.log(car2.type);
 console.log(car2.model);
 
-// Example4
+// Example4k
  interface Rectangle{
     height:number,
     width
